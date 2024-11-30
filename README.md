@@ -38,3 +38,17 @@ Date: 15/10/2024
 
 6. ![RBladeOS](0.2.png)
 
+7. # RBladeOS 0.3
+
+8. Date: 30/11/2024
+
+9. 1. In the RBladeOS bootloader, there is a welcome message saying that your choice to boot RBladeOS was great and he background is blue.
+  
+   2. 2 new commands have been added, being the "BANNER" and the "NOP" that the "BANNER" displays the banner on the screen, and the "NOP" is an infinite loop until you press 'q'
+  
+   3. Now in the command loop that are the "NOP" and "LOOP" instead of needing to restart the system to stop the command, just press "q" and the command is terminated.
+  
+   4. I intend in future versions to create a better interface for the RBladeOS kernel
+  
+   5. ![RBladeOS](0.3.png)
+
